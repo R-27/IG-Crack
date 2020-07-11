@@ -60,7 +60,7 @@ echo -e '''
       \e[1;37m  ░█░ █░▄▄   █░░░ █▄▄▀ █▄▄█ █░░░ █▀▄░
       \e[1;37m  ▄█▄ █▄▄█   █▄▄█ █░▒█ █░▒█ █▄▄█ █░▒█      
     
-   \e[1;37m[\e[1;31m Follow \e[1;31m:\e[1;34m https://instagram.com/_rafszz?igshid=1x4b7hm21o058\e[1;37m ]
+   \e[1;37m[\e[1;31m Follow \e[1;31m:\e[1;34m _Rafszz[1;37m ]
 
 1\e[1;31m. \e[1;37mR-27Gans \e[1;31m|| \e[1;37mCracking Target From \e[1;32m||Username||\e[1;37m
 2\e[1;31m. \e[1;37mR-27Gans \e[1;31m|| \e[1;37mCracking Target From \e[1;32m||Hashtag||\e[1;37m
@@ -68,7 +68,7 @@ echo -e '''
 '''
 
 # asking
-echo -ne "${white}[ ${red}?${white} ] Choose what you want boy ${red}:${green} " ; read ask_menu
+echo -ne "${white}[ ${red}?${white} ] Wanna Play? Hit me..!  ${red}:${green} " ; read ask_menu
 
 # select menu
 case $ask_menu in
