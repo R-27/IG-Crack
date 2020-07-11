@@ -60,7 +60,7 @@ echo -e '''
       \e[1;37m  ░█░ █░▄▄   █░░░ █▄▄▀ █▄▄█ █░░░ █▀▄░
       \e[1;37m  ▄█▄ █▄▄█   █▄▄█ █░▒█ █░▒█ █▄▄█ █░▒█      
     
-   \e[1;37m[\e[1;31m Follow \e[1;31m:\e[1;34m _Rafszz[1;37m ]
+   \e[1;37m[\e[1;31m Follow \e[1;31m:\e[1;34m_Rafszz \e[1;37m]
 
 1\e[1;31m. \e[1;37mR-27Gans \e[1;31m|| \e[1;37mCracking Target From \e[1;32m||Username||\e[1;37m
 2\e[1;31m. \e[1;37mR-27Gans \e[1;31m|| \e[1;37mCracking Target From \e[1;32m||Hashtag||\e[1;37m
